@@ -1,0 +1,4 @@
+
+<form  method=post action=@{NewshopR} enctype=#{enctype}>
+  ^{widget}
+  <button class= "btn btn-default"> Creat Shop

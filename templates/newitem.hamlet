@@ -1,0 +1,3 @@
+<form  method=post action=@{NewitemR} enctype=#{enctype}>
+  ^{widget}
+  <button class= "btn btn-default"> Creat Item
